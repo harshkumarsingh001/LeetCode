@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/harshkumarsingh001/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/harshkumarsingh001/LeetCode/tree/master/0792-binary-search) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshkumarsingh001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshkumarsingh001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## String
 |  |
 | ------- |
