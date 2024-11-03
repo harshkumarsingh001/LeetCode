@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshkumarsingh001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/harshkumarsingh001/LeetCode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/harshkumarsingh001/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/harshkumarsingh001/LeetCode/tree/master/0389-find-the-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshkumarsingh001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## String
 |  |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/harshkumarsingh001/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/harshkumarsingh001/LeetCode/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshkumarsingh001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/harshkumarsingh001/LeetCode/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
