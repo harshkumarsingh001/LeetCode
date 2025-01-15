@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/harshkumarsingh001/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/harshkumarsingh001/LeetCode/tree/master/0792-binary-search) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshkumarsingh001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshkumarsingh001/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/harshkumarsingh001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshkumarsingh001/LeetCode/tree/master/0389-find-the-difference) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshkumarsingh001/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshkumarsingh001/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Queue
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harshkumarsingh001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshkumarsingh001/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
