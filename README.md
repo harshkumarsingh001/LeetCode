@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshkumarsingh001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/harshkumarsingh001/LeetCode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/harshkumarsingh001/LeetCode/tree/master/0274-h-index) |
 | [0485-max-consecutive-ones](https://github.com/harshkumarsingh001/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/harshkumarsingh001/LeetCode/tree/master/0792-binary-search) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshkumarsingh001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/harshkumarsingh001/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/harshkumarsingh001/LeetCode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/harshkumarsingh001/LeetCode/tree/master/0389-find-the-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshkumarsingh001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## String
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshkumarsingh001/LeetCode/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/harshkumarsingh001/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
