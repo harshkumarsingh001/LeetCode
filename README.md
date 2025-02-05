@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/harshkumarsingh001/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshkumarsingh001/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harshkumarsingh001/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshkumarsingh001/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/harshkumarsingh001/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/harshkumarsingh001/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/harshkumarsingh001/LeetCode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/harshkumarsingh001/LeetCode/tree/master/0389-find-the-difference) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshkumarsingh001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harshkumarsingh001/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/harshkumarsingh001/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/harshkumarsingh001/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshkumarsingh001/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshkumarsingh001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harshkumarsingh001/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/harshkumarsingh001/LeetCode/tree/master/0274-h-index) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harshkumarsingh001/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Simulation
 |  |
 | ------- |
