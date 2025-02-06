@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/harshkumarsingh001/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harshkumarsingh001/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/harshkumarsingh001/LeetCode/tree/master/0792-binary-search) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshkumarsingh001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshkumarsingh001/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/harshkumarsingh001/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshkumarsingh001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/harshkumarsingh001/LeetCode/tree/master/0389-find-the-difference) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshkumarsingh001/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/harshkumarsingh001/LeetCode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/harshkumarsingh001/LeetCode/tree/master/0389-find-the-difference) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshkumarsingh001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harshkumarsingh001/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/harshkumarsingh001/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harshkumarsingh001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshkumarsingh001/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Dynamic Programming
 |  |
