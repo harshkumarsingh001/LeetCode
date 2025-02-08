@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/harshkumarsingh001/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/harshkumarsingh001/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/harshkumarsingh001/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0792-binary-search](https://github.com/harshkumarsingh001/LeetCode/tree/master/0792-binary-search) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshkumarsingh001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Memoization
 |  |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshkumarsingh001/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
@@ -219,4 +224,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
