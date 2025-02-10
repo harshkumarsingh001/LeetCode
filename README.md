@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/harshkumarsingh001/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/harshkumarsingh001/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/harshkumarsingh001/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/harshkumarsingh001/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshkumarsingh001/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/harshkumarsingh001/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/harshkumarsingh001/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshkumarsingh001/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/harshkumarsingh001/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/harshkumarsingh001/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshkumarsingh001/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshkumarsingh001/LeetCode/tree/master/0125-valid-palindrome) |
