@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshkumarsingh001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/harshkumarsingh001/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/harshkumarsingh001/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshkumarsingh001/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshkumarsingh001/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshkumarsingh001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshkumarsingh001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshkumarsingh001/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/harshkumarsingh001/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/harshkumarsingh001/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshkumarsingh001/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Tree
 |  |
