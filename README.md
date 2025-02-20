@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/harshkumarsingh001/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/harshkumarsingh001/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
+| [3055-maximum-odd-binary-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshkumarsingh001/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/harshkumarsingh001/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshkumarsingh001/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshkumarsingh001/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3055-maximum-odd-binary-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/harshkumarsingh001/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/harshkumarsingh001/LeetCode/tree/master/3379-score-of-a-string) |
 ## Queue
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/harshkumarsingh001/LeetCode/tree/master/0409-longest-palindrome) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/harshkumarsingh001/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harshkumarsingh001/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3055-maximum-odd-binary-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Monotonic Stack
 |  |
 | ------- |
