@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshkumarsingh001/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harshkumarsingh001/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/harshkumarsingh001/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/harshkumarsingh001/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/harshkumarsingh001/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/harshkumarsingh001/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/harshkumarsingh001/LeetCode/tree/master/0409-longest-palindrome) |
 | [1160-letter-tile-possibilities](https://github.com/harshkumarsingh001/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/harshkumarsingh001/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshkumarsingh001/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshkumarsingh001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harshkumarsingh001/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/harshkumarsingh001/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/harshkumarsingh001/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/harshkumarsingh001/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harshkumarsingh001/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/harshkumarsingh001/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3055-maximum-odd-binary-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Monotonic Stack
 |  |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/harshkumarsingh001/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/harshkumarsingh001/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/harshkumarsingh001/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/0948-sort-an-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/harshkumarsingh001/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
 |  |
 | ------- |
