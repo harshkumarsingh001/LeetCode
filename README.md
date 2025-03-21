@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/harshkumarsingh001/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/harshkumarsingh001/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/harshkumarsingh001/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/harshkumarsingh001/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/harshkumarsingh001/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/harshkumarsingh001/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/harshkumarsingh001/LeetCode/tree/master/0389-find-the-difference) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/harshkumarsingh001/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Sorting
