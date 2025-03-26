@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/harshkumarsingh001/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/harshkumarsingh001/LeetCode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/harshkumarsingh001/LeetCode/tree/master/0461-hamming-distance) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/harshkumarsingh001/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Sorting
 |  |
