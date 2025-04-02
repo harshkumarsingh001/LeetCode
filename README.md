@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/harshkumarsingh001/LeetCode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/harshkumarsingh001/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/harshkumarsingh001/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshkumarsingh001/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
