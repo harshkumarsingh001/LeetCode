@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/harshkumarsingh001/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/harshkumarsingh001/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/harshkumarsingh001/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshkumarsingh001/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/harshkumarsingh001/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/harshkumarsingh001/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshkumarsingh001/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/harshkumarsingh001/LeetCode/tree/master/0409-longest-palindrome) |
 | [1285-balance-a-binary-search-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/harshkumarsingh001/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/harshkumarsingh001/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/harshkumarsingh001/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/harshkumarsingh001/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
