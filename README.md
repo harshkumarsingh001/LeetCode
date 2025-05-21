@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshkumarsingh001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/harshkumarsingh001/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/harshkumarsingh001/LeetCode/tree/master/0392-is-subsequence) |
+| [0930-all-possible-full-binary-trees](https://github.com/harshkumarsingh001/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshkumarsingh001/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0930-all-possible-full-binary-trees](https://github.com/harshkumarsingh001/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## Stack
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/harshkumarsingh001/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1285-balance-a-binary-search-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -232,11 +235,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0930-all-possible-full-binary-trees](https://github.com/harshkumarsingh001/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1285-balance-a-binary-search-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshkumarsingh001/LeetCode/tree/master/0070-climbing-stairs) |
+| [0930-all-possible-full-binary-trees](https://github.com/harshkumarsingh001/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 ## Greedy
 |  |
 | ------- |
