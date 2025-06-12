@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/harshkumarsingh001/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/harshkumarsingh001/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/harshkumarsingh001/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/harshkumarsingh001/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/harshkumarsingh001/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/harshkumarsingh001/LeetCode/tree/master/0283-move-zeroes) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/harshkumarsingh001/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshkumarsingh001/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/harshkumarsingh001/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/0948-sort-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/harshkumarsingh001/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
@@ -332,4 +335,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/harshkumarsingh001/LeetCode/tree/master/0039-combination-sum) |
 | [1160-letter-tile-possibilities](https://github.com/harshkumarsingh001/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/harshkumarsingh001/LeetCode/tree/master/2107-find-unique-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harshkumarsingh001/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/harshkumarsingh001/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
