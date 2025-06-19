@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/harshkumarsingh001/LeetCode/tree/master/0561-array-partition) |
 | [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0792-binary-search](https://github.com/harshkumarsingh001/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/harshkumarsingh001/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/0948-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/harshkumarsingh001/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/harshkumarsingh001/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/harshkumarsingh001/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/harshkumarsingh001/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/harshkumarsingh001/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/harshkumarsingh001/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
