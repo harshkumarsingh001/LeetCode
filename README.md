@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/harshkumarsingh001/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/harshkumarsingh001/LeetCode/tree/master/0561-array-partition) |
 | [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/harshkumarsingh001/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/harshkumarsingh001/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/harshkumarsingh001/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/harshkumarsingh001/LeetCode/tree/master/0948-sort-an-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/harshkumarsingh001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshkumarsingh001/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/harshkumarsingh001/LeetCode/tree/master/0739-daily-temperatures) |
 | [2128-reverse-prefix-of-word](https://github.com/harshkumarsingh001/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshkumarsingh001/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/harshkumarsingh001/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/harshkumarsingh001/LeetCode/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |
 | ------- |
